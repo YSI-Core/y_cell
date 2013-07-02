@@ -86,8 +86,8 @@ Compile options:
 	-
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Internal\y_version"
-#include "..\YSI-Internal\y_globaltags"
+#include "..\YSI_Internal\y_version"
+#include "..\YSI_Internal\y_globaltags"
 
 /**--------------------------------------------------------------------------**\
 <summary>
